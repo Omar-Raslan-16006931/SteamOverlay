@@ -1,0 +1,11 @@
+{
+  "name": "steam-price-overlay",
+  "version": "2.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^37.2.0"
+  }
+}

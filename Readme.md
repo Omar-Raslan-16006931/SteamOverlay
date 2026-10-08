@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Steam%20Price%20Overlay&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Always-on-top%20desktop%20overlay%20that%20converts%20Steam%20prices%20in%20real%20time&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Steam Price Overlay"/>
+<img src=".github/assets/banner.svg" width="100%" alt="Steam Price Overlay"/>
 
 <img src="https://img.shields.io/github/last-commit/Omar-Raslan-16006931/SteamOverlay?style=for-the-badge&color=6366f1" alt="Last commit"/>
 <img src="https://img.shields.io/github/languages/top/Omar-Raslan-16006931/SteamOverlay?style=for-the-badge&color=0ea5e9" alt="Top language"/>
@@ -112,6 +112,6 @@ When locked:
 
 **Made with ❤️ by [Omar Raslan](https://github.com/Omar-Raslan-16006931)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer" width="100%"/>
+<img src=".github/assets/footer.svg" width="100%"/>
 
 </div>
